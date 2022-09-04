@@ -1,0 +1,43 @@
+﻿   本应用程序，用于蓝牙BMS保护板。在使用本应用程序期间，用户的隐私将受到尊重和保护。为了向用户提供更准确和个性化的服务，将根据以下隐私政策的规定使用和披露您的个人信息。此外，将以高度勤勉和谨慎的态度对待所有信息。未经您的许可，不会向第三方披露或提供任何信息，除非在本隐私政策条款中提及的情况下。将不时更新此隐私政策。当您同意本使用协议时，即视为您同意本隐私政策的全部内容。此隐私政策是应用程序服务使用协议的组成部分。
+
+1、适用范围
+（a） 当您打开APP时将提示使用蓝牙功能，APP使用蓝牙功能仅限于连接提供的蓝牙模块进行数据透传交互；
+（b） 但您打开APP时将提示使用GPS定位功能。APP使用定位功能仅限于辅助蓝牙信号稳定性搜索
+（c） 将不获取和手机用户任何信息。
+您需要阅读并同意以下信息不适用于本隐私政策：
+（a） 使用此应用平台提供的设置服务时输入的关键字；
+2、信息使用
+（a） 除非事先获得您的许可，否则不会向任何无关第三方提供、出售、租赁、共享或交易您的个人信息。如果第三方和（包括应用程序的关联公司）单独或共同向您提供服务，则在服务结束后，将禁止检查之前可以检查的所有信息；
+（b）也不允许任何第三方以任何方式收集、编辑、出售或传播您的个人信息。一旦发现我们应用平台的任何用户参与上述活动，有权立即终止与该用户的服务协议； 
+3、信息披露
+     APP使用蓝牙功能仅限于连接提供的蓝牙模块进行数据透传交互，不参与任何个人信息收集和传播
+4、信息存储与交换
+    APP使用蓝牙功能仅限于连接提供的蓝牙模块进行数据透传交互，不参与任何个人信息收集和传播
+5、cookies的使用
+    APP使用蓝牙功能仅限于连接提供的蓝牙模块进行数据透传交互，不参与任何个人信息收集和传播
+6、信息安全
+    APP使用蓝牙功能仅限于连接提供的蓝牙模块进行数据透传交互，不参与任何个人信息收集和传播
+7、隐私政策的变更
+（a） 如果决定更改隐私政策，将在网站上以及认为合适的地方发布这些更改，以便您了解如何收集和使用您的个人信息，谁可以访问这些信息，以及将在什么情况下披露这些信息；
+（b）保留随时修改此政策的权利，因此请定期检查。如果本政策有任何重大变化，将在我们的网站上通知您。
+This is applicable to Bluetooth BMS protection board. During the use of this application, the user's privacy will be respected and protected. In order to provide users with more accurate and personalized services, we will use and disclose your personal information in accordance with the provisions of the following privacy policy. In addition, all information will be treated with a high degree of diligence and caution. No information will be disclosed or provided to third parties without your permission, except in the circumstances mentioned in this privacy policy. This privacy policy will be updated from time to time. When you agree to this use agreement, it is deemed that you agree to all the contents of this privacy policy. This privacy policy is part of the application service usage agreement.
+1. Scope of application
+(a) When you open the app, you will be prompted to use the Bluetooth function. The Bluetooth function of the app is only limited to connecting the provided Bluetooth module for data transparent interaction;
+(b) However, when you open the app, you will be prompted to use the GPS positioning function. The positioning function used by app is only limited to assisting the stability search of Bluetooth signal
+(c) No information will be obtained from mobile phone users.
+You need to read and agree that the following information does not apply to this Privacy Policy:
+(a) Keywords entered when using the setting service provided by this application platform;
+2. Information usage
+(a) Unless you obtain your permission in advance, you will not provide, sell, lease, share or trade your personal information to any unrelated third party. If a third party and (including an affiliate of the application) provide services to you individually or jointly, all information that can be checked before will be prohibited from being checked after the end of the service;
+(b) Nor does it allow any third party to collect, edit, sell or disseminate your personal information in any way. Once any user of our application platform is found to participate in the above activities, it has the right to immediately terminate the service agreement with the user;
+3. Information disclosure
+The app uses the Bluetooth function only to connect the provided Bluetooth module for data transparent transmission interaction, and does not participate in any personal information collection and dissemination
+4. Information storage and exchange
+The app uses the Bluetooth function only to connect the provided Bluetooth module for data transparent transmission interaction, and does not participate in any personal information collection and dissemination
+5. Use of cookies
+The app uses the Bluetooth function only to connect the provided Bluetooth module for data transparent transmission interaction, and does not participate in any personal    information collection and dissemination
+6. Information security
+The app uses the Bluetooth function only to connect the provided Bluetooth module for data transparent transmission interaction, and does not participate in any personal information collection and dissemination
+7. Change of privacy policy
+(a) If you decide to change your privacy policy, you will publish these changes on the website and where you think appropriate, so that you can understand how to collect and use your personal information, who can access this information, and under what circumstances it will be disclosed;
+(b) We reserve the right to modify this policy at any time, so please check it regularly. If there is any significant change in this policy, you will be notified on our website.
